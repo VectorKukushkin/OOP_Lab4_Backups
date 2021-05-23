@@ -1,0 +1,13 @@
+D:\Users\vecto\source\repos\OOP_Lab4_Backups\OOP_Lab4_Backups\bin\Debug\netcoreapp3.1\OOP_Lab4_Backups.exe
+D:\Users\vecto\source\repos\OOP_Lab4_Backups\OOP_Lab4_Backups\bin\Debug\netcoreapp3.1\OOP_Lab4_Backups.deps.json
+D:\Users\vecto\source\repos\OOP_Lab4_Backups\OOP_Lab4_Backups\bin\Debug\netcoreapp3.1\OOP_Lab4_Backups.runtimeconfig.json
+D:\Users\vecto\source\repos\OOP_Lab4_Backups\OOP_Lab4_Backups\bin\Debug\netcoreapp3.1\OOP_Lab4_Backups.runtimeconfig.dev.json
+D:\Users\vecto\source\repos\OOP_Lab4_Backups\OOP_Lab4_Backups\bin\Debug\netcoreapp3.1\OOP_Lab4_Backups.dll
+D:\Users\vecto\source\repos\OOP_Lab4_Backups\OOP_Lab4_Backups\bin\Debug\netcoreapp3.1\OOP_Lab4_Backups.pdb
+D:\Users\vecto\source\repos\OOP_Lab4_Backups\OOP_Lab4_Backups\obj\Debug\netcoreapp3.1\OOP_Lab4_Backups.csprojAssemblyReference.cache
+D:\Users\vecto\source\repos\OOP_Lab4_Backups\OOP_Lab4_Backups\obj\Debug\netcoreapp3.1\OOP_Lab4_Backups.AssemblyInfoInputs.cache
+D:\Users\vecto\source\repos\OOP_Lab4_Backups\OOP_Lab4_Backups\obj\Debug\netcoreapp3.1\OOP_Lab4_Backups.AssemblyInfo.cs
+D:\Users\vecto\source\repos\OOP_Lab4_Backups\OOP_Lab4_Backups\obj\Debug\netcoreapp3.1\OOP_Lab4_Backups.csproj.CoreCompileInputs.cache
+D:\Users\vecto\source\repos\OOP_Lab4_Backups\OOP_Lab4_Backups\obj\Debug\netcoreapp3.1\OOP_Lab4_Backups.dll
+D:\Users\vecto\source\repos\OOP_Lab4_Backups\OOP_Lab4_Backups\obj\Debug\netcoreapp3.1\OOP_Lab4_Backups.pdb
+D:\Users\vecto\source\repos\OOP_Lab4_Backups\OOP_Lab4_Backups\obj\Debug\netcoreapp3.1\OOP_Lab4_Backups.genruntimeconfig.cache
